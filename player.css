@@ -1,0 +1,30 @@
+body {
+  font-family: "consolas";
+  margin: 20px;
+  background-color: #637e76;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 50px;
+}
+
+.options {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.options .button {
+  text-decoration: none;
+  color: black;
+}
+button {
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #eee;
+  cursor: pointer;
+  text-decoration: none;
+}
+
